@@ -1,4 +1,4 @@
-FROM markuspf/gapbinder:20171020
+FROM markuspf/gapbinder
 
 MAINTAINER Markus Pfeiffer <markus.pfeiffer@morphism.de>
 
