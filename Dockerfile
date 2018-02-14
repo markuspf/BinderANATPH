@@ -1,5 +1,5 @@
-FROM sebasguts/gapbinder:20171020
+FROM markuspf/gapbinder:20171020
 
-MAINTAINER Sebastian Gutsche <sebastian.gutsche@gmail.com>
+MAINTAINER Markus Pfeiffer <markus.pfeiffer@morphism.de>
 
 COPY . /home/gap
