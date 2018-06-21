@@ -2,6 +2,8 @@
 
 
 # BinderANATPH
-Playbinder for ANATPH package
+
+Documentation and Demo for the implementation of the RSymTest procedure as described in the paper 
+Polynomial-time proofs that groups are hyperbolic in GAP.
 
 
